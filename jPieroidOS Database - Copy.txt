@@ -1,0 +1,46 @@
+jPieroidOS 2.0.1 by - K.Dushyant Reddy
+------------------------------------------------------------------------------------------------------
+
+Create database jos1;
+use jos1;
+
+create table backgrounds
+(Homescreen varchar(50),
+Loginscreen varchar(50));
+
+Insert into backgrounds values("back3.jpg","back1.jpg");
+
+create table useravatar
+(Avatar varchar(50));
+
+Insert into useravatar values("user12.png");
+
+create table userpass
+(username varchar(50),
+password varchar(50));
+
+insert into userpass values("jos","open");
+
+create table words
+(Srno int(3) Primary key,
+word varchar(20) unique);
+
+insert into words values("1","work"),("2","star"),("3","plus"),("4","lift"),("5","pure"),("6","sail"),("7","grin"),("8","same"),("9","wait"),("10","wolf"),("11","main"),("12","home"),("13","some"),("14","have"),("15","mice"),("16","bore"),("17","flaw"),("18","leak"),("19","node"),("20","nail"),("21","hare"),("22","ears"),("23","rate"),("24","weak"),("25","into"),("26","cows"),("27","lock"),("28","tame"),("29","calm"),("30","year"),("31","sake"),("32","kite"),("33","show"),("34","bags"),("35","bake"),("36","jail"),("37","labs"),("38","crop"),("39","take"),("40","cape");
+
+Create table  Contacts
+( Sr_No int (3) Primary Key,
+  First_Name varchar(30),
+Last_Name varchar(30),
+Number bigint(10));
+
+
+insert into contacts values(1,'K. Dushyant','Reddy',9685522540),(2,'Abhishek','Sahu',7415301140),(3,'Deepanshu','Xaxa',9406114893);
+
+Create table calling
+( Name varchar(30),
+
+Number bigint(10));
+insert into calling values('K. Dushyant Reddy',9685522540);
+
+----------------------------------------------------------------------------------------------------------------
+jPieroidOS 2.0.1 by - K. Dushyant Reddy
