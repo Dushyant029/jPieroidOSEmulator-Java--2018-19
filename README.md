@@ -1,7 +1,7 @@
 # jPieroidOSEmulator-Java--2018-19
 
                                             jPieroid Emulator
-This software project is developed to automate the functionalities of an Android.                     The purpose of the software project is to develop the Management Information System (MIS) to automate the record keeping of Contacts, Calculator, Game and Restaurant issue and receive transactions with a view to enhance the decision making of the functionaries.
+This software project is developed to automate the functionalities of an Android.                     The purpose of the software project is to develop the Management Information System (MIS) to automate the record keeping of Contacts, Calculator, Game and Restaurant issue and receive transactions with a view to enhance the decision making of the functionaries. 
 
 
 ![1 login](https://user-images.githubusercontent.com/55031190/95687405-1888ba80-0c21-11eb-8d06-8b9bd8575fdf.jpg)
